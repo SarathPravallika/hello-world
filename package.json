@@ -1,0 +1,29 @@
+{
+  "name": "Practice",
+  "version": "1.0.0",
+  "main": "grade.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node grades.js",
+    "temp": "echo \"Hello Temp\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sarath",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarathPravallika/hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SarathPravallika/hello-world/issues"
+  },
+  "homepage": "https://github.com/SarathPravallika/hello-world#readme",
+  "description": ""
+}
