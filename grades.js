@@ -1,3 +1,4 @@
+console.log("Hi");
 var grade = {
 	_grades: [],
 	gradeCount: function(){
